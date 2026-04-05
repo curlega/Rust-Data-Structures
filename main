@@ -1,0 +1,6 @@
+fn main() {
+    println!("Initializing NJUPT Lab Environment...");
+    let student_id = "B24030812";
+    let major = "Software Engineering";
+    println!("Student {} from {} is ready.", student_id, major);
+}
